@@ -242,6 +242,7 @@ def crate_table():
         source_connection.close()
         destination_cursor.close()
         destination_connection.close()
+        ####
 
 
 def sql_help():
