@@ -243,6 +243,7 @@ def crate_table():
         destination_cursor.close()
         destination_connection.close()
         ####
+        print(f"conndbo sucssis")
 
 
 def sql_help():
